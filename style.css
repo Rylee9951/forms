@@ -1,0 +1,51 @@
+body{
+	background-color: #5ca3d6;
+	 
+}
+.border{
+	font-family: sans-serif;
+	font-weight: bold;
+	color: white;
+	
+}
+
+}
+#FirstName{
+	width: 200px;
+}
+#LastName{
+	width: 200px;
+}
+#EmailAddress{
+	width: 200px;
+}
+#Country{
+	width: 200px;
+}
+#PhoneNumber{
+	width: 200px;
+}
+#Affiliations{
+	
+}
+#Occupation{
+	width: 200px;
+}
+#CatsName{
+	width: 200px;
+}
+#FavoriteGadget{
+	width: 200px;
+}
+#TypeofTalent{
+	width: 200px;
+}
+#FavoriteDrink{
+	width: 200px;
+}
+#SpecialPower{
+	width: 200px;
+}
+#WeaponofChoice{
+	width: 200px;
+}
