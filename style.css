@@ -1,6 +1,7 @@
 body{
 	background-color: #5ca3d6;
-	 
+     padding: 25px;
+
 }
 .border{
 	font-family: sans-serif;
@@ -8,44 +9,30 @@ body{
 	color: white;
 	
 }
+input{
+	border: 3px solid white;
+	background-color: #5ca3d6;
+	width: 200px; 
+}
+form{
+	border: 3px solid white;
+	background-color: #5ca3d6;
 
 }
-#FirstName{
-	width: 200px;
+textarea{
+	background-color: #5ca3d6;
 }
-#LastName{
-	width: 200px;
+
+.column {
+	float:left;
+	margin: 10px 10px 10px 100px;
 }
-#EmailAddress{
+select{
 	width: 200px;
+	border: 1px solid grey;
+	background-color: #5ca3d6;
 }
-#Country{
-	width: 200px;
-}
-#PhoneNumber{
-	width: 200px;
-}
-#Affiliations{
-	
-}
-#Occupation{
-	width: 200px;
-}
-#CatsName{
-	width: 200px;
-}
-#FavoriteGadget{
-	width: 200px;
-}
-#TypeofTalent{
-	width: 200px;
-}
-#FavoriteDrink{
-	width: 200px;
-}
-#SpecialPower{
-	width: 200px;
-}
-#WeaponofChoice{
-	width: 200px;
+
+.column{
+	margin-top: 40px;
 }
