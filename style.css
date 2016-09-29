@@ -12,27 +12,42 @@ body{
 input{
 	border: 3px solid white;
 	background-color: #5ca3d6;
-	width: 200px; 
+	width:200px; 
+	color: white;
+	font-weight: bold;
+}
+
 }
 form{
 	border: 3px solid white;
 	background-color: #5ca3d6;
-
 }
+
+
 textarea{
 	background-color: #5ca3d6;
+	border: 3px solid white;
 }
 
 .column {
 	float:left;
 	margin: 10px 10px 10px 100px;
+	color: white;
 }
 select{
 	width: 200px;
 	border: 1px solid grey;
 	background-color: #5ca3d6;
+	color: white;
+	font-weight: bold;
 }
 
 .column{
 	margin-top: 40px;
+}
+div{
+	margin-top: 25px;
+}
+.FavoriteGadget{
+	padding-bottom: 20px;
 }
